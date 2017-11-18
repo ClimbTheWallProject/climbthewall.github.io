@@ -1,0 +1,1 @@
+$(function(){if(window.location.pathname.indexOf('ugchaindemo.github.io')<0)return false;thesaas.init()})
