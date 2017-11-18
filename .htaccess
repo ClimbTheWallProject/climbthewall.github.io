@@ -1,5 +1,1 @@
 ErrorDocument 404 /404
-AuthType Basic  
-AuthName "restricted area"  
-AuthUserFile https://climbthewall.today/.htpasswd  
-require valid-user
