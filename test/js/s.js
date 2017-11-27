@@ -1,6 +1,6 @@
 // UI components
 
-var searchServer = "https://proxy-xzapi.rhcloud.com/gsapi";
+var searchServer = "https://www.google.com/jsapi";
 
 var infoPanel = {
 	panel: $("#info-panel"),
