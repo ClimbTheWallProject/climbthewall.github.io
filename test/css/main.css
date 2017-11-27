@@ -1,0 +1,15 @@
+.searchentry {
+	cursor: pointer;
+}
+
+.heading {
+	margin-bottom: 50px;
+}
+
+.footer {
+	margin-top: 50px;
+}
+
+#searchbox-main {
+	margin-top: 90px;
+}
