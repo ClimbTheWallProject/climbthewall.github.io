@@ -1,1 +1,3 @@
 ErrorDocument 404 /404
+RewriteEngine on
+Redirect 301 /lisa https://zxing.org/w/chart?cht=qr&chs=350x350&chld=L&choe=UTF-8&chl=http%3A%2F%2Fweixin.qq.com%2Fr%2F0DjL00DEUR0urQSw923C%3Futm_source%3Dtest
