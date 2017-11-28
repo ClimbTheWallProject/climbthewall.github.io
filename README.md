@@ -1,5 +1,7 @@
 ### Notice
 
+**we.climbthewall.today Access Code:** cNf3RXRD4CDu
+
 It'd be great if you can share uncensored news from China as PDF to the **/uncensored** folder. 
 
 I will push them to https://we.climbthewall.today/uncensored/
