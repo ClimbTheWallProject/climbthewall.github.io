@@ -29,10 +29,10 @@ Email m@climbthewall.today or just do it the GitHub way:
 
 ### Official Links
 
-Official Website: climbthewall.today
-Github: climbthewallproject
-Twitter: @WeClimbTheWall
-Telegram: @ClimbTheWall
+* Official Website: climbthewall.today
+* Github: climbthewallproject
+* Twitter: @WeClimbTheWall
+* Telegram: @ClimbTheWall
 
 ### Updates:
 
