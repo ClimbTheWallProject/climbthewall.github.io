@@ -42,7 +42,7 @@ You can either [donate](https://www.paypal.me/ClimbTheWallProject/10usd) or spon
 * Twitter: @WeClimbTheWall
 * Telegram: @ClimbTheWall
 
-### Updates:
+### Updates (Applicable for Subscribers):
 
 #### Nov 24, 2017
 
