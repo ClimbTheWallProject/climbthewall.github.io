@@ -1,14 +1,16 @@
+### Notice
+
+It'd be great if you can share uncensored news from China as PDF to the **/uncensored** folder. 
+
+I will push them to https://we.climbthewall.today/uncensored/
+
 # Climb The Wall Project
 
 ## Official Website (climbthewall.today)
 
 #ClimbTheWall project* aims to help everyone access internet without any online censorship. 
 
-Feel free to contribute.
-
-It'd be great if you can share uncensored news as PDF to the **/uncensored** folder. 
-
-I will be pushing them to https://we.climbthewall.today/uncensored/
+**Devs, Writers, journalists or even general public can contribute to this project.**
 
 ## We Climb The Wall* (we.climbthewall.today)
 
