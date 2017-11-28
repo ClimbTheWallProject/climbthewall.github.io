@@ -23,9 +23,13 @@ Sign-up now to view the configs listed in the UPDATES section and get access to 
 * Contact m@climbthewall.today if you find any difficulty using https://we.climbthewall.today.
 * We can’t assure stability of servers for the time being. Follow us on Twitter or join the Telegram group to stay in the loop.
 
-### Contribute/ Sponsor Servers:
+### Contribute:
 
-Email m@climbthewall.today or just do it the GitHub way:
+Email m@climbthewall.today or just do it the GitHub way.
+
+### Donate:
+
+You can either [donate](https://www.paypal.me/ClimbTheWallProject/10usd) or sponsor servers (recommended). 
 
 ### Official Links
 
