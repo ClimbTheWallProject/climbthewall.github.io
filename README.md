@@ -46,5 +46,4 @@ Telegram: @ClimbTheWall
 
 * Optimized US servers for Netflix streaming.
 
-
-*** Currently in beta.
+***Currently in beta**
